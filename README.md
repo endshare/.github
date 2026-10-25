@@ -1,0 +1,2 @@
+# .github
+endshare/.github
